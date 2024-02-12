@@ -1,6 +1,6 @@
-<span style="color:blue">
-  Hello, My name is Carrie Ma! Welcome to my Github Page!
-</span>
+![banner](https://github.com/zcmdev/zcmdev/blob/main/banner.png)
+
+# Hello, my name is Ziyi (Carrie) Ma, welcome to my Github!
 
 <!--- 👋 Hi, I’m @zcmdev
 - 👀 I’m interested in ...
