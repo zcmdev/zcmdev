@@ -1,6 +1,4 @@
-![banner](https://github.com/zcmdev/zcmdev/blob/main/banner.png)
-
-# Hello, my name is Ziyi (Carrie) Ma, welcome to my Github!
+![banner](https://github.com/zcmdev/zcmdev/blob/main/Readme.png)
 
 <!--- 👋 Hi, I’m @zcmdev
 - 👀 I’m interested in ...
